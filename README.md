@@ -6,4 +6,4 @@ I work on [Untax App](https://untax.app) and [write about my experience developi
 
 [Here's some more information about my recent work](http://pachulski.me/about).
 
-[Let me know if you're interested in working together](https://pachulski.me/work-with-me).
+[Let me know if you're interested in working together](https://pachulski.me/work-with-me)!
