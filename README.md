@@ -1,9 +1,19 @@
-Hey, I'm Nick! 👋🏻
+# Hello! 👋🏻 I'm Nicholas Pachulski
 
-I help companies build iOS and Android apps and get them into user's hands quickly. I do fast, quality work and the pace of development does not stop year after year. I practice true test driven development which prevents work from becoming overly complex, allowing us to move confidently fast. I love pairing with developers at all levels and I really enjoy working with React and React Native (❤️ Expo) and Ruby on Rails.
+I _love_ writing code using practices and tools that promote simplicity.
 
-I work on [Untax App](https://untax.app) and [write about my experience developing software](https://pachulski.me) in my spare time.
+👫 [Pair Programming](http://www.extremeprogramming.org/rules/pair.html)
 
-[Here's some more information about my recent work](http://pachulski.me/about).
+🧪 [Test Driven Development](http://www.extremeprogramming.org/rules/testfirst.html)
 
-[Let me know if you're interested in working together](https://pachulski.me/work-with-me)!
+⚛️ [React](https://react.dev) ([Native](https://reactnative.dev) ([Expo](https://expo.dev)))
+
+💎 [Ruby](https://www.ruby-lang.org/en/) ([on Rails](https://rubyonrails.org))
+
+💧 [Elixir](https://elixir-lang.org) ([and Phoenix](https://www.phoenixframework.org))
+
+I spend my time building things that I believe will make people happier and [writing about it](https://pachulski.me). Most days, I do it in exchange for mortgage payments, nice dinners, puppy pampering provisions and hockey pads.
+
+If you have similar sentiments and need help with anything, [please get in touch](https://pachulski.me/work-with-me)!
+
+You'll hear back... I'm an inbox zero guy ✊
