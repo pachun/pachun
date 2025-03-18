@@ -14,6 +14,4 @@ I _love_ writing code using practices and tools that promote simplicity.
 
 I spend my time building things that I believe will make people happier and [writing about it](https://github.com/pachun/blog/blob/main/README.md). Most days, I do it in exchange for mortgage payments, nice dinners, puppy pampering provisions and hockey pads.
 
-If you have a question for me, [please get in touch](https://pachulski.me/work-with-me)!
-
-You'll hear back... I'm an inbox zero guy ✊
+If you have a question for me, [please get in touch](mailto:nick@pachulski.me)!
