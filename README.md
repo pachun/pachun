@@ -1,4 +1,4 @@
-# 👋🏻 Hey, I'm Nicholas
+# 👋🏻 Hey, I'm Nicholas Pachulski
 
 I _love_ writing code using practices and tools that promote simplicity.
 
